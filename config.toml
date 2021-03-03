@@ -1,5 +1,5 @@
 baseURL = "http://akbar.codes"
-title = "Akbar.codes"
+title = "akbar.codes"
 
 theme = "hugo-coder"
 
@@ -132,11 +132,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-gitlab"
     weight = 2
     url = "https://gitlab.com/Xerdiosa/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fa fa-twitter"
-    weight = 3
-    url = "https://twitter.com/MAAkbr/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
