@@ -16,3 +16,6 @@ hugo version
 ```
 hugo server -D
 ```
+
+## Notes
+please remove my analytics token if you fork this project.

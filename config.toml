@@ -64,6 +64,10 @@ pygmentsCodeFencesGuessSyntax = true
   tag = "tags"
   author = "authors"
 
+# please remove this on fork project
+[params.cloudflare]
+    token = "2370f3646f7841ba8d249cef8dca8ea7"
+
 [[params.social]]
     name = "Github"
     icon = "fa fa-github"
