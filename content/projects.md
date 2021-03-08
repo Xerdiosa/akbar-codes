@@ -25,7 +25,7 @@ Tech used: Django, JQuery.
 
 ## [Moviemarkt](https://moviemarkt.herokuapp.com/)
 ![Moviemarkt Homepage](/images/moviemarkt.png)
-[{{< icon "fa fa-gitlab" >}}&nbsp;gitlab](https://gitlab.com/rpl-kelompok-6/moviemarkt)\
+**private source**\
 Movie renting platform created for indie content creator(DEMO ONLY). In this project, i contribute in creating watch page.\
 Tech used: Django.
 
