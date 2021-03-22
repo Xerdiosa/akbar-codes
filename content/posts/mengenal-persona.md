@@ -4,9 +4,9 @@ date = 2021-03-22T08:22:34+07:00
 title = "Mengenal persona"
 description = "belajar tentang persona dalam software development"
 slug = ""
-authors = ["Muhammad Aulia Akbar"]
-tags = ["PPL2021", "Persona"]
-categories = ["UX"]
+authors = [ "Muhammad Aulia Akbar" ]
+tags = [ "PPL2021", "Persona", "UX" ]
+categories = [ "Software Development" ]
 externalLink = ""
 series = []
 +++

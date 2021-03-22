@@ -4,9 +4,9 @@ date = 2021-03-22T08:22:34+07:00
 title = "Mengenal scrum"
 description = "Menjelaskan apa itu scrum dan keuntunganya"
 slug = ""
-authors = ["Muhammad Aulia Akbar"]
-tags = ["PPL2021", "scrum"]
-categories = ["Programming"]
+authors = [ "Muhammad Aulia Akbar" ]
+tags = [ "PPL2021", "scrum" ]
+categories = [ "Software Development" ]
 externalLink = ""
 series = []
 +++
