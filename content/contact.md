@@ -5,5 +5,6 @@ draft: false
 ---
 
 You can contact me via:
+
 * [{{< icon "fa fa-envelope" >}}&nbsp;aulia.aa.akbar@gmail.com](mailto:aulia.aa.akbar@gmail.com?subject=Hi%20Akbar!)
 * [{{< icon "fa fa-linkedin" >}}&nbsp;Muhammad Aulia Akbar](https://www.linkedin.com/in/MAuliaAkbar/)
