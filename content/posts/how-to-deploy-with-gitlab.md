@@ -13,6 +13,8 @@ series = []
 
 # Continous deployment dengan gitlab ci
 
+![gitlab ci logo](/images/posts/how-to-deploy-with-gitlab-ci/gitlab-ci.png)
+
 ## Pendahuluan
 
 Pada saat kita selesai mengembangkan sebuah aplikasi, tentu saja kita ingin agar fitur baru yang telah dikerjakan dapat dirasakan oleh pengguna. Hal ini dapat dilakukan dengan melakukan deployment. Deployment dapat dilakukan secara manual, namun pada artikel kali ini, kita akan membahas cara agar deployment dapat dilakukan secara otomatis menggunakan runner yang disedakan oleh gitlab.
