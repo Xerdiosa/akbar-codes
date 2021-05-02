@@ -1,11 +1,11 @@
 +++ 
 draft = true
-date = 2021-05-02T12:41:25+07:00
-title = "kenapa clean code itu penting?"
+date = 2021-05-02T12:42:30+07:00
+title = "aplikasikan TDD dalam projectmu"
 description = ""
 slug = ""
 authors = []
-tags = [ "PPL2021", "clean code" ]
+tags = [ "PPL2021", "TDD" ]
 categories = [ "Software Development" ]
 externalLink = ""
 series = []
