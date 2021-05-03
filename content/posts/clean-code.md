@@ -1,7 +1,7 @@
 +++ 
-draft = true
+draft = false
 date = 2021-05-02T12:41:25+07:00
-title = "kenapa clean code itu penting?"
+title = "Clean code dalam project development"
 description = ""
 slug = ""
 authors = []
@@ -10,3 +10,5 @@ categories = [ "Software Development" ]
 externalLink = ""
 series = []
 +++
+
+Pada saat proses pengembangan dan pemeliharaan sebuah aplikasi, tentu saja kita akan berurusan dengan kode. Namun perlu kita ketahui, bahwa tidak semua kode itu setara. Ada kode yang mudah dibaca dan dirawat, sedangkan ada kode yang untuk memahami nya saja sulit. Jika anda kode yang ditulis masuk ke [r/programminghorror](https://reddit.com/r/programminghorror) ada baiknya untuk memahami cara untuk menulis clean code.
