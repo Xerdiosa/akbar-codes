@@ -12,3 +12,7 @@ series = []
 +++
 
 Apa itu TDD? Apakah TDD akan meningkatkan produktifitas?
+
+## Test Driven Development
+
+Test Driven Development atau yang disebut juga dengan TDD adalah konsep dimana kita menuliskan test case terlebih dahulu, baik itu unit testing maupun functional testing. Pada awalnya TDD akan terdengar tidak intuitif namun setelah menguasai TDD akan banyak keunggulan yang dapat dirasakan.
