@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2021-05-02T12:42:30+07:00
-title = "aplikasikan TDD dalam projectmu"
+title = "Aplikasikan TDD dalam projectmu"
 description = ""
 slug = ""
 authors = []
