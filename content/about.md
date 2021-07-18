@@ -19,7 +19,7 @@ I was given a task to develop the Kubernetes operator pattern API in Golang. Thi
 June 2020 - June 2021\
 I learned back-end software engineering using Golang and Node.js. During my internship period, I helped the team to accomplish various tasks, including (but not limited to): implementing REST API features, implementing a caching system, and adding event tracking in the back-end.
 
-### **[Sirclo](https://sirclo.com)** - *Software Engineer Intern*
+### **[SIRCLO](https://sirclo.com)** - *Software Engineer Intern*
 
 June 2019 - August 2019\
 I learned back-end software engineering using Golang. During my internship period, I helped the team to accomplish various tasks, including (but not limited to): fixing bugs in the programs, implementing REST API features, and doing partners’ API error mapping.
