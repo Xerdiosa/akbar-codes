@@ -9,12 +9,17 @@ I focus on back-end engineering, with 1 year of experience in golang.
 
 ## Experience
 
-### [BAREKSA](https://bareksa.com) - Jr Backeend Engineer Intern
+### **[GUDANGADA](https://gudangada.com)** - *Software Engineer Intern*
 
-June 2020 - Present\
-I learn back-end software engineering first-hand using GO and Node.js. During my internship period, I helped the team to accomplish various tasks including (but not limited to):implement REST API features, implement a caching system, and adding event tracking in the backend.
+July 2021 - Present\
+I was given a task to develop the Kubernetes operator pattern API in Golang. This enabled a faster and seamless deployment experience for the Kubernetes service.
 
-### [SIRCLO](https://sirclo.com) - Back-end engineer intern
+### **[BAREKSA](https://bareksa.com)** - *Software Engineer Intern*
+
+June 2020 - June 2021\
+I learned back-end software engineering using Golang and Node.js. During my internship period, I helped the team to accomplish various tasks, including (but not limited to): implementing REST API features, implementing a caching system, and adding event tracking in the back-end.
+
+### **[SIRCLO](https://sirclo.com)** - *Software Engineer Intern*
 
 June 2019 - August 2019\
-I learn back-end software engineering first-hand using GO. During my internship period, I helped the team to accomplish various tasks including (but not limited to): fix bugs in the programs, implement REST API features and implementing partners API error mapping.
+I learned back-end software engineering using Golang. During my internship period, I helped the team to accomplish various tasks, including (but not limited to): fixing bugs in the programs, implementing REST API features, and doing partners’ API error mapping.
