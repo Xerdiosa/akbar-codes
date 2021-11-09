@@ -4,8 +4,8 @@ date: 2021-03-08T21:51:00+07:00
 draft: false
 ---
 
-My name is Muhammad Aulia Akbar, penultimate year student at University Of Indonesia studying computer science.
-I focus on back-end engineering, with 1 year of experience in golang.
+My name is Muhammad Aulia Akbar, senior year student at University Of Indonesia studying computer science.
+I focus on back-end engineering, with 2 year of experience in golang.
 
 ## Experience
 

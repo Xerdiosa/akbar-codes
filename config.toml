@@ -17,7 +17,7 @@ pygmentsCodeFencesGuessSyntax = true
     author = "Muhammad Aulia Akbar"
     description = "Akbar's personal website"
     keywords = "blog,developer,personal"
-    info = "Penultimate year computer science student at University of Indonesia"
+    info = "Senior year computer science student at University of Indonesia"
     avatarURL = "images/avatar.jpg"
     favicon_32 = "icons/favicon.ico"
 
