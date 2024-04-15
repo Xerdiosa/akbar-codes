@@ -4,8 +4,8 @@ date: 2021-03-08T21:51:00+07:00
 draft: false
 ---
 
-My name is Muhammad Aulia Akbar, senior year student at University Of Indonesia studying computer science.
-I focus on back-end engineering, with 2 year of experience in golang.
+My name is Muhammad Aulia Akbar, software engineer at Shopee.
+I focus on back-end engineering, with 4 year of experience in golang.
 
 ## Experience
 
@@ -23,3 +23,4 @@ I learned back-end software engineering using Golang and Node.js. During my inte
 
 June 2019 - August 2019\
 I learned back-end software engineering using Golang. During my internship period, I helped the team to accomplish various tasks, including (but not limited to): fixing bugs in the programs, implementing REST API features, and doing partners’ API error mapping.
+<!-- TODO: add shopee desc -->
